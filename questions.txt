@@ -1,4 +1,0 @@
-Wap to represent a user input sparse matrix in a 3-tupple representation (array representation)
-
-Wap to find the transpose of a sparse matrix. Add both the matrices( sparse matrix and its trandpose).
- Then represent the resultant matrix into 3 tupple representation of sparse matrix
